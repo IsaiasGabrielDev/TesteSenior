@@ -1,4 +1,4 @@
-# Teste Técnico Sênior - Catálogo Siscomex
+# Teste Técnico - Catálogo Siscomex
 
 ## Contexto
 
