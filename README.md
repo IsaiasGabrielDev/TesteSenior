@@ -33,7 +33,7 @@ Desenvolver uma solução composta por:
 |---|---|
 | `catalogo_mock_20_itens_anonimizado.json` | Mock do catálogo de produtos |
 | `ATRIBUTOS_POR_NCM_2026_04_29.json` | Base de atributos por NCM |
-| `teste_tecnico_senior_catalogo_siscomex.pdf` | Enunciado completo do teste |
+| `teste_tecnico_catalogo_siscomex.pdf` | Enunciado completo do teste |
 
 ---
 
