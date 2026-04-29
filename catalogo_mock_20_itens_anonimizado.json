@@ -1,0 +1,1602 @@
+[
+  {
+    "seq": 1,
+    "codigo": 1001,
+    "descricao": "Produto de catálogo fictício modelo 001, utilizado exclusivamente para teste técnico. Informações comerciais, fabricantes, registros e códigos internos foram anonimizados.",
+    "denominacao": "PRODUTO CATALOGO MODELO 001",
+    "cpfCnpjRaiz": "00000000",
+    "situacao": "Ativado",
+    "modalidade": "IMPORTACAO",
+    "ncm": "40169300",
+    "versao": "1",
+    "atributos": [
+      {
+        "atributo": "ATT_14545",
+        "valor": "99"
+      }
+    ],
+    "atributosMultivalorados": [],
+    "atributosCompostos": [],
+    "atributosCompostosMultivalorados": [],
+    "codigosInterno": [
+      "SKU-MOCK-0001"
+    ]
+  },
+  {
+    "seq": 2,
+    "codigo": 1002,
+    "descricao": "Produto de catálogo fictício modelo 002, utilizado exclusivamente para teste técnico. Informações comerciais, fabricantes, registros e códigos internos foram anonimizados.",
+    "denominacao": "PRODUTO CATALOGO MODELO 002",
+    "cpfCnpjRaiz": "00000000",
+    "situacao": "Ativado",
+    "modalidade": "IMPORTACAO",
+    "ncm": "38221990",
+    "versao": "2",
+    "atributos": [
+      {
+        "atributo": "ATT_14200",
+        "valor": "99"
+      },
+      {
+        "atributo": "ATT_2622",
+        "valor": "02"
+      },
+      {
+        "atributo": "ATT_14547",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_14555",
+        "valor": "FABRICANTE MODELO 2 - ENDERECO FICTICIO 102 - CIDADE TESTE - PAIS EXEMPLO"
+      },
+      {
+        "atributo": "ATT_14554",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_14540",
+        "valor": "01"
+      },
+      {
+        "atributo": "ATT_14556",
+        "valor": "8"
+      },
+      {
+        "atributo": "ATT_14546",
+        "valor": "731 Dias(s)"
+      },
+      {
+        "atributo": "ATT_15120",
+        "valor": "NÃO SE APLICA"
+      },
+      {
+        "atributo": "ATT_15121",
+        "valor": "COD-MOCK-0002"
+      },
+      {
+        "atributo": "ATT_15122",
+        "valor": "3 x 3 mL"
+      },
+      {
+        "atributo": "ATT_14860",
+        "valor": "3 x 3 mL"
+      },
+      {
+        "atributo": "ATT_14551",
+        "valor": "90000000002"
+      },
+      {
+        "atributo": "ATT_14545",
+        "valor": "82"
+      },
+      {
+        "atributo": "ATT_8571",
+        "valor": "NÃO SE APLICA"
+      },
+      {
+        "atributo": "ATT_9142",
+        "valor": "false"
+      }
+    ],
+    "atributosMultivalorados": [],
+    "atributosCompostos": [],
+    "atributosCompostosMultivalorados": [],
+    "codigosInterno": [
+      "SKU-MOCK-0002"
+    ]
+  },
+  {
+    "seq": 3,
+    "codigo": 1003,
+    "descricao": "Produto de catálogo fictício modelo 003, utilizado exclusivamente para teste técnico. Informações comerciais, fabricantes, registros e códigos internos foram anonimizados.",
+    "denominacao": "PRODUTO CATALOGO MODELO 003",
+    "cpfCnpjRaiz": "00000000",
+    "situacao": "Ativado",
+    "modalidade": "IMPORTACAO",
+    "ncm": "38221990",
+    "versao": "2",
+    "atributos": [
+      {
+        "atributo": "ATT_14200",
+        "valor": "99"
+      },
+      {
+        "atributo": "ATT_2622",
+        "valor": "02"
+      },
+      {
+        "atributo": "ATT_14547",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_14555",
+        "valor": "FABRICANTE MODELO 3 - ENDERECO FICTICIO 103 - CIDADE TESTE - PAIS EXEMPLO"
+      },
+      {
+        "atributo": "ATT_14554",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_14540",
+        "valor": "01"
+      },
+      {
+        "atributo": "ATT_14556",
+        "valor": "8"
+      },
+      {
+        "atributo": "ATT_14546",
+        "valor": "1021 Dias(s)"
+      },
+      {
+        "atributo": "ATT_15120",
+        "valor": "NÃO SE APLICA"
+      },
+      {
+        "atributo": "ATT_15121",
+        "valor": "COD-MOCK-0003"
+      },
+      {
+        "atributo": "ATT_15122",
+        "valor": "6 x 2 mL"
+      },
+      {
+        "atributo": "ATT_14860",
+        "valor": "6 x 2 mL"
+      },
+      {
+        "atributo": "ATT_14551",
+        "valor": "90000000003"
+      },
+      {
+        "atributo": "ATT_14545",
+        "valor": "82"
+      },
+      {
+        "atributo": "ATT_8571",
+        "valor": "NÃO SE APLICA"
+      },
+      {
+        "atributo": "ATT_9142",
+        "valor": "false"
+      }
+    ],
+    "atributosMultivalorados": [],
+    "atributosCompostos": [],
+    "atributosCompostosMultivalorados": [],
+    "codigosInterno": [
+      "SKU-MOCK-0003"
+    ]
+  },
+  {
+    "seq": 4,
+    "codigo": 1004,
+    "descricao": "Produto de catálogo fictício modelo 004, utilizado exclusivamente para teste técnico. Informações comerciais, fabricantes, registros e códigos internos foram anonimizados.",
+    "denominacao": "PRODUTO CATALOGO MODELO 004",
+    "cpfCnpjRaiz": "00000000",
+    "situacao": "Ativado",
+    "modalidade": "IMPORTACAO",
+    "ncm": "38221990",
+    "versao": "2",
+    "atributos": [
+      {
+        "atributo": "ATT_14200",
+        "valor": "99"
+      },
+      {
+        "atributo": "ATT_9142",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8571",
+        "valor": "NÃO SE APLICA"
+      },
+      {
+        "atributo": "ATT_14545",
+        "valor": "82"
+      },
+      {
+        "atributo": "ATT_14551",
+        "valor": "90000000004"
+      },
+      {
+        "atributo": "ATT_14860",
+        "valor": "12 x 5 mL"
+      },
+      {
+        "atributo": "ATT_15122",
+        "valor": "12 x 5 mL"
+      },
+      {
+        "atributo": "ATT_15121",
+        "valor": "COD-MOCK-0004"
+      },
+      {
+        "atributo": "ATT_15120",
+        "valor": "NÃO SE APLICA"
+      },
+      {
+        "atributo": "ATT_14546",
+        "valor": "711 Dias(s)"
+      },
+      {
+        "atributo": "ATT_14556",
+        "valor": "8"
+      },
+      {
+        "atributo": "ATT_14540",
+        "valor": "01"
+      },
+      {
+        "atributo": "ATT_14554",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_14555",
+        "valor": "FABRICANTE MODELO 4 - ENDERECO FICTICIO 104 - CIDADE TESTE - PAIS EXEMPLO"
+      },
+      {
+        "atributo": "ATT_14547",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_2622",
+        "valor": "02"
+      }
+    ],
+    "atributosMultivalorados": [],
+    "atributosCompostos": [],
+    "atributosCompostosMultivalorados": [],
+    "codigosInterno": [
+      "SKU-MOCK-0004"
+    ]
+  },
+  {
+    "seq": 5,
+    "codigo": 1005,
+    "descricao": "Produto de catálogo fictício modelo 005, utilizado exclusivamente para teste técnico. Informações comerciais, fabricantes, registros e códigos internos foram anonimizados.",
+    "denominacao": "PRODUTO CATALOGO MODELO 005",
+    "cpfCnpjRaiz": "00000000",
+    "situacao": "Ativado",
+    "modalidade": "IMPORTACAO",
+    "ncm": "38221990",
+    "versao": "2",
+    "atributos": [
+      {
+        "atributo": "ATT_14200",
+        "valor": "99"
+      },
+      {
+        "atributo": "ATT_2622",
+        "valor": "02"
+      },
+      {
+        "atributo": "ATT_14547",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_14555",
+        "valor": "FABRICANTE MODELO 5 - ENDERECO FICTICIO 105 - CIDADE TESTE - PAIS EXEMPLO"
+      },
+      {
+        "atributo": "ATT_14554",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_14540",
+        "valor": "01"
+      },
+      {
+        "atributo": "ATT_14556",
+        "valor": "8"
+      },
+      {
+        "atributo": "ATT_14546",
+        "valor": "486 Dias(s)"
+      },
+      {
+        "atributo": "ATT_15120",
+        "valor": "NÃO SE APLICA"
+      },
+      {
+        "atributo": "ATT_15121",
+        "valor": "COD-MOCK-0005"
+      },
+      {
+        "atributo": "ATT_15122",
+        "valor": "4 x 2500 mL"
+      },
+      {
+        "atributo": "ATT_14860",
+        "valor": "4 x 2500 mL"
+      },
+      {
+        "atributo": "ATT_14551",
+        "valor": "90000000005"
+      },
+      {
+        "atributo": "ATT_14545",
+        "valor": "82"
+      },
+      {
+        "atributo": "ATT_8571",
+        "valor": "NÃO SE APLICA"
+      },
+      {
+        "atributo": "ATT_9142",
+        "valor": "false"
+      }
+    ],
+    "atributosMultivalorados": [],
+    "atributosCompostos": [],
+    "atributosCompostosMultivalorados": [],
+    "codigosInterno": [
+      "SKU-MOCK-0005"
+    ]
+  },
+  {
+    "seq": 6,
+    "codigo": 1006,
+    "descricao": "Produto de catálogo fictício modelo 006, utilizado exclusivamente para teste técnico. Informações comerciais, fabricantes, registros e códigos internos foram anonimizados.",
+    "denominacao": "PRODUTO CATALOGO MODELO 006",
+    "cpfCnpjRaiz": "00000000",
+    "situacao": "Ativado",
+    "modalidade": "IMPORTACAO",
+    "ncm": "38221990",
+    "versao": "1",
+    "atributos": [
+      {
+        "atributo": "ATT_14200",
+        "valor": "99"
+      },
+      {
+        "atributo": "ATT_2622",
+        "valor": "02"
+      },
+      {
+        "atributo": "ATT_14547",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_14555",
+        "valor": "FABRICANTE MODELO 6 - ENDERECO FICTICIO 106 - CIDADE TESTE - PAIS EXEMPLO"
+      },
+      {
+        "atributo": "ATT_14554",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_14540",
+        "valor": "01"
+      },
+      {
+        "atributo": "ATT_14556",
+        "valor": "6"
+      },
+      {
+        "atributo": "ATT_14546",
+        "valor": "730 Dias(s)"
+      },
+      {
+        "atributo": "ATT_15120",
+        "valor": "NÃO SE APLICA"
+      },
+      {
+        "atributo": "ATT_15121",
+        "valor": "COD-MOCK-0006"
+      },
+      {
+        "atributo": "ATT_15122",
+        "valor": "1 x 2600 mL"
+      },
+      {
+        "atributo": "ATT_14860",
+        "valor": "1 x 2600 mL"
+      },
+      {
+        "atributo": "ATT_14551",
+        "valor": "90000000006"
+      },
+      {
+        "atributo": "ATT_14545",
+        "valor": "82"
+      },
+      {
+        "atributo": "ATT_8571",
+        "valor": "NÃO SE APLICA"
+      },
+      {
+        "atributo": "ATT_9142",
+        "valor": "false"
+      }
+    ],
+    "atributosMultivalorados": [],
+    "atributosCompostos": [],
+    "atributosCompostosMultivalorados": [],
+    "codigosInterno": [
+      "SKU-MOCK-0006"
+    ]
+  },
+  {
+    "seq": 7,
+    "codigo": 1007,
+    "descricao": "Produto de catálogo fictício modelo 007, utilizado exclusivamente para teste técnico. Informações comerciais, fabricantes, registros e códigos internos foram anonimizados.",
+    "denominacao": "PRODUTO CATALOGO MODELO 007",
+    "cpfCnpjRaiz": "00000000",
+    "situacao": "Ativado",
+    "modalidade": "IMPORTACAO",
+    "ncm": "38221990",
+    "versao": "1",
+    "atributos": [
+      {
+        "atributo": "ATT_14545",
+        "valor": "82"
+      },
+      {
+        "atributo": "ATT_8571",
+        "valor": "NÃO SE APLICA"
+      },
+      {
+        "atributo": "ATT_9142",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_14200",
+        "valor": "99"
+      },
+      {
+        "atributo": "ATT_2622",
+        "valor": "02"
+      },
+      {
+        "atributo": "ATT_14547",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_14555",
+        "valor": "FABRICANTE MODELO 7 - ENDERECO FICTICIO 107 - CIDADE TESTE - PAIS EXEMPLO"
+      },
+      {
+        "atributo": "ATT_14554",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_14540",
+        "valor": "01"
+      },
+      {
+        "atributo": "ATT_14556",
+        "valor": "6"
+      },
+      {
+        "atributo": "ATT_14546",
+        "valor": "1095 Dias(s)"
+      },
+      {
+        "atributo": "ATT_15120",
+        "valor": "NÃO SE APLICA"
+      },
+      {
+        "atributo": "ATT_15121",
+        "valor": "COD-MOCK-0007"
+      },
+      {
+        "atributo": "ATT_15122",
+        "valor": "2 x 25 mL"
+      },
+      {
+        "atributo": "ATT_14860",
+        "valor": "2 x 25 mL"
+      },
+      {
+        "atributo": "ATT_14551",
+        "valor": "90000000007"
+      }
+    ],
+    "atributosMultivalorados": [],
+    "atributosCompostos": [],
+    "atributosCompostosMultivalorados": [],
+    "codigosInterno": [
+      "SKU-MOCK-0007"
+    ]
+  },
+  {
+    "seq": 8,
+    "codigo": 1008,
+    "descricao": "Produto de catálogo fictício modelo 008, utilizado exclusivamente para teste técnico. Informações comerciais, fabricantes, registros e códigos internos foram anonimizados.",
+    "denominacao": "PRODUTO CATALOGO MODELO 008",
+    "cpfCnpjRaiz": "00000000",
+    "situacao": "Ativado",
+    "modalidade": "IMPORTACAO",
+    "ncm": "38221990",
+    "versao": "1",
+    "atributos": [
+      {
+        "atributo": "ATT_14200",
+        "valor": "99"
+      },
+      {
+        "atributo": "ATT_2622",
+        "valor": "02"
+      },
+      {
+        "atributo": "ATT_14547",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_14555",
+        "valor": "FABRICANTE MODELO 8 - ENDERECO FICTICIO 108 - CIDADE TESTE - PAIS EXEMPLO"
+      },
+      {
+        "atributo": "ATT_14554",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_14540",
+        "valor": "01"
+      },
+      {
+        "atributo": "ATT_14556",
+        "valor": "6"
+      },
+      {
+        "atributo": "ATT_14546",
+        "valor": "1096 Dias(s)"
+      },
+      {
+        "atributo": "ATT_15120",
+        "valor": "NÃO SE APLICA"
+      },
+      {
+        "atributo": "ATT_15121",
+        "valor": "COD-MOCK-0008"
+      },
+      {
+        "atributo": "ATT_15122",
+        "valor": "10 x 20 mL"
+      },
+      {
+        "atributo": "ATT_14860",
+        "valor": "10 x 20 mL"
+      },
+      {
+        "atributo": "ATT_14551",
+        "valor": "90000000008"
+      },
+      {
+        "atributo": "ATT_14545",
+        "valor": "82"
+      },
+      {
+        "atributo": "ATT_8571",
+        "valor": "NÃO SE APLICA"
+      },
+      {
+        "atributo": "ATT_9142",
+        "valor": "false"
+      }
+    ],
+    "atributosMultivalorados": [],
+    "atributosCompostos": [],
+    "atributosCompostosMultivalorados": [],
+    "codigosInterno": [
+      "SKU-MOCK-0008"
+    ]
+  },
+  {
+    "seq": 9,
+    "codigo": 1009,
+    "descricao": "Produto de catálogo fictício modelo 009, utilizado exclusivamente para teste técnico. Informações comerciais, fabricantes, registros e códigos internos foram anonimizados.",
+    "denominacao": "PRODUTO CATALOGO MODELO 009",
+    "cpfCnpjRaiz": "00000000",
+    "situacao": "Ativado",
+    "modalidade": "IMPORTACAO",
+    "ncm": "38221990",
+    "versao": "1",
+    "atributos": [
+      {
+        "atributo": "ATT_14200",
+        "valor": "99"
+      },
+      {
+        "atributo": "ATT_2622",
+        "valor": "02"
+      },
+      {
+        "atributo": "ATT_14547",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_14555",
+        "valor": "FABRICANTE MODELO 1 - ENDERECO FICTICIO 109 - CIDADE TESTE - PAIS EXEMPLO"
+      },
+      {
+        "atributo": "ATT_14554",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_14540",
+        "valor": "01"
+      },
+      {
+        "atributo": "ATT_14556",
+        "valor": "6"
+      },
+      {
+        "atributo": "ATT_14546",
+        "valor": "1096 Dias(s)"
+      },
+      {
+        "atributo": "ATT_15120",
+        "valor": "NÃO SE APLICA"
+      },
+      {
+        "atributo": "ATT_15121",
+        "valor": "COD-MOCK-0009"
+      },
+      {
+        "atributo": "ATT_15122",
+        "valor": "1 x 5 mL"
+      },
+      {
+        "atributo": "ATT_14860",
+        "valor": "1 x 5 mL"
+      },
+      {
+        "atributo": "ATT_14551",
+        "valor": "90000000009"
+      },
+      {
+        "atributo": "ATT_14545",
+        "valor": "82"
+      },
+      {
+        "atributo": "ATT_8571",
+        "valor": "NÃO SE APLICA"
+      },
+      {
+        "atributo": "ATT_9142",
+        "valor": "false"
+      }
+    ],
+    "atributosMultivalorados": [],
+    "atributosCompostos": [],
+    "atributosCompostosMultivalorados": [],
+    "codigosInterno": [
+      "SKU-MOCK-0009"
+    ]
+  },
+  {
+    "seq": 10,
+    "codigo": 1010,
+    "descricao": "Produto de catálogo fictício modelo 010, utilizado exclusivamente para teste técnico. Informações comerciais, fabricantes, registros e códigos internos foram anonimizados.",
+    "denominacao": "PRODUTO CATALOGO MODELO 010",
+    "cpfCnpjRaiz": "00000000",
+    "situacao": "Ativado",
+    "modalidade": "IMPORTACAO",
+    "ncm": "38221990",
+    "versao": "1",
+    "atributos": [
+      {
+        "atributo": "ATT_14200",
+        "valor": "99"
+      },
+      {
+        "atributo": "ATT_2622",
+        "valor": "02"
+      },
+      {
+        "atributo": "ATT_14547",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_14555",
+        "valor": "FABRICANTE MODELO 2 - ENDERECO FICTICIO 110 - CIDADE TESTE - PAIS EXEMPLO"
+      },
+      {
+        "atributo": "ATT_14554",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_14540",
+        "valor": "01"
+      },
+      {
+        "atributo": "ATT_14556",
+        "valor": "6"
+      },
+      {
+        "atributo": "ATT_14546",
+        "valor": "1219 Dias(s)"
+      },
+      {
+        "atributo": "ATT_15120",
+        "valor": "NÃO SE APLICA"
+      },
+      {
+        "atributo": "ATT_15121",
+        "valor": "COD-MOCK-0010"
+      },
+      {
+        "atributo": "ATT_15122",
+        "valor": "3 x 3 mL"
+      },
+      {
+        "atributo": "ATT_14860",
+        "valor": "3 x 3 mL"
+      },
+      {
+        "atributo": "ATT_14551",
+        "valor": "90000000010"
+      },
+      {
+        "atributo": "ATT_14545",
+        "valor": "82"
+      },
+      {
+        "atributo": "ATT_8571",
+        "valor": "NÃO SE APLICA"
+      },
+      {
+        "atributo": "ATT_9142",
+        "valor": "false"
+      }
+    ],
+    "atributosMultivalorados": [],
+    "atributosCompostos": [],
+    "atributosCompostosMultivalorados": [],
+    "codigosInterno": [
+      "SKU-MOCK-0010"
+    ]
+  },
+  {
+    "seq": 11,
+    "codigo": 1011,
+    "descricao": "Produto de catálogo fictício modelo 011, utilizado exclusivamente para teste técnico. Informações comerciais, fabricantes, registros e códigos internos foram anonimizados.",
+    "denominacao": "PRODUTO CATALOGO MODELO 011",
+    "cpfCnpjRaiz": "00000000",
+    "situacao": "Ativado",
+    "modalidade": "IMPORTACAO",
+    "ncm": "38221990",
+    "versao": "1",
+    "atributos": [
+      {
+        "atributo": "ATT_14200",
+        "valor": "99"
+      },
+      {
+        "atributo": "ATT_2622",
+        "valor": "02"
+      },
+      {
+        "atributo": "ATT_14547",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_14555",
+        "valor": "FABRICANTE MODELO 3 - ENDERECO FICTICIO 111 - CIDADE TESTE - PAIS EXEMPLO"
+      },
+      {
+        "atributo": "ATT_14554",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_14540",
+        "valor": "01"
+      },
+      {
+        "atributo": "ATT_14556",
+        "valor": "6"
+      },
+      {
+        "atributo": "ATT_14546",
+        "valor": "822 Dias(s)"
+      },
+      {
+        "atributo": "ATT_15120",
+        "valor": "NÃO SE APLICA"
+      },
+      {
+        "atributo": "ATT_15121",
+        "valor": "COD-MOCK-0011"
+      },
+      {
+        "atributo": "ATT_15122",
+        "valor": "6 x 2 mL"
+      },
+      {
+        "atributo": "ATT_14860",
+        "valor": "6 x 2 mL"
+      },
+      {
+        "atributo": "ATT_14551",
+        "valor": "90000000011"
+      },
+      {
+        "atributo": "ATT_14545",
+        "valor": "82"
+      },
+      {
+        "atributo": "ATT_8571",
+        "valor": "NÃO SE APLICA"
+      },
+      {
+        "atributo": "ATT_9142",
+        "valor": "false"
+      }
+    ],
+    "atributosMultivalorados": [],
+    "atributosCompostos": [],
+    "atributosCompostosMultivalorados": [],
+    "codigosInterno": [
+      "SKU-MOCK-0011"
+    ]
+  },
+  {
+    "seq": 12,
+    "codigo": 1012,
+    "descricao": "Produto de catálogo fictício modelo 012, utilizado exclusivamente para teste técnico. Informações comerciais, fabricantes, registros e códigos internos foram anonimizados.",
+    "denominacao": "PRODUTO CATALOGO MODELO 012",
+    "cpfCnpjRaiz": "00000000",
+    "situacao": "Ativado",
+    "modalidade": "IMPORTACAO",
+    "ncm": "38221990",
+    "versao": "1",
+    "atributos": [
+      {
+        "atributo": "ATT_14555",
+        "valor": "FABRICANTE MODELO 4 - ENDERECO FICTICIO 112 - CIDADE TESTE - PAIS EXEMPLO"
+      },
+      {
+        "atributo": "ATT_14554",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_14540",
+        "valor": "01"
+      },
+      {
+        "atributo": "ATT_14556",
+        "valor": "6"
+      },
+      {
+        "atributo": "ATT_14546",
+        "valor": "822 Dias(s)"
+      },
+      {
+        "atributo": "ATT_15120",
+        "valor": "NÃO SE APLICA"
+      },
+      {
+        "atributo": "ATT_15121",
+        "valor": "COD-MOCK-0012"
+      },
+      {
+        "atributo": "ATT_15122",
+        "valor": "12 x 5 mL"
+      },
+      {
+        "atributo": "ATT_14860",
+        "valor": "12 x 5 mL"
+      },
+      {
+        "atributo": "ATT_14551",
+        "valor": "90000000012"
+      },
+      {
+        "atributo": "ATT_14545",
+        "valor": "82"
+      },
+      {
+        "atributo": "ATT_8571",
+        "valor": "NÃO SE APLICA"
+      },
+      {
+        "atributo": "ATT_9142",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_14200",
+        "valor": "99"
+      },
+      {
+        "atributo": "ATT_2622",
+        "valor": "02"
+      },
+      {
+        "atributo": "ATT_14547",
+        "valor": "false"
+      }
+    ],
+    "atributosMultivalorados": [],
+    "atributosCompostos": [],
+    "atributosCompostosMultivalorados": [],
+    "codigosInterno": [
+      "SKU-MOCK-0012"
+    ]
+  },
+  {
+    "seq": 13,
+    "codigo": 1013,
+    "descricao": "Produto de catálogo fictício modelo 013, utilizado exclusivamente para teste técnico. Informações comerciais, fabricantes, registros e códigos internos foram anonimizados.",
+    "denominacao": "PRODUTO CATALOGO MODELO 013",
+    "cpfCnpjRaiz": "00000000",
+    "situacao": "Ativado",
+    "modalidade": "IMPORTACAO",
+    "ncm": "38221990",
+    "versao": "1",
+    "atributos": [
+      {
+        "atributo": "ATT_14200",
+        "valor": "99"
+      },
+      {
+        "atributo": "ATT_2622",
+        "valor": "02"
+      },
+      {
+        "atributo": "ATT_14547",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_14555",
+        "valor": "FABRICANTE MODELO 5 - ENDERECO FICTICIO 113 - CIDADE TESTE - PAIS EXEMPLO"
+      },
+      {
+        "atributo": "ATT_14554",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_14540",
+        "valor": "01"
+      },
+      {
+        "atributo": "ATT_14556",
+        "valor": "6"
+      },
+      {
+        "atributo": "ATT_14546",
+        "valor": "730 Dias(s)"
+      },
+      {
+        "atributo": "ATT_15120",
+        "valor": "NÃO SE APLICA"
+      },
+      {
+        "atributo": "ATT_15121",
+        "valor": "COD-MOCK-0013"
+      },
+      {
+        "atributo": "ATT_15122",
+        "valor": "4 x 2500 mL"
+      },
+      {
+        "atributo": "ATT_14860",
+        "valor": "4 x 2500 mL"
+      },
+      {
+        "atributo": "ATT_14551",
+        "valor": "90000000013"
+      },
+      {
+        "atributo": "ATT_14545",
+        "valor": "82"
+      },
+      {
+        "atributo": "ATT_8571",
+        "valor": "NÃO SE APLICA"
+      },
+      {
+        "atributo": "ATT_9142",
+        "valor": "false"
+      }
+    ],
+    "atributosMultivalorados": [],
+    "atributosCompostos": [],
+    "atributosCompostosMultivalorados": [],
+    "codigosInterno": [
+      "SKU-MOCK-0013"
+    ]
+  },
+  {
+    "seq": 14,
+    "codigo": 1014,
+    "descricao": "Produto de catálogo fictício modelo 014, utilizado exclusivamente para teste técnico. Informações comerciais, fabricantes, registros e códigos internos foram anonimizados.",
+    "denominacao": "PRODUTO CATALOGO MODELO 014",
+    "cpfCnpjRaiz": "00000000",
+    "situacao": "Ativado",
+    "modalidade": "IMPORTACAO",
+    "ncm": "38221990",
+    "versao": "1",
+    "atributos": [
+      {
+        "atributo": "ATT_14200",
+        "valor": "99"
+      },
+      {
+        "atributo": "ATT_2622",
+        "valor": "02"
+      },
+      {
+        "atributo": "ATT_14547",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_14555",
+        "valor": "FABRICANTE MODELO 6 - ENDERECO FICTICIO 114 - CIDADE TESTE - PAIS EXEMPLO"
+      },
+      {
+        "atributo": "ATT_14554",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_14540",
+        "valor": "01"
+      },
+      {
+        "atributo": "ATT_14556",
+        "valor": "6"
+      },
+      {
+        "atributo": "ATT_14546",
+        "valor": "1187 Dias(s)"
+      },
+      {
+        "atributo": "ATT_15120",
+        "valor": "NÃO SE APLICA"
+      },
+      {
+        "atributo": "ATT_15121",
+        "valor": "COD-MOCK-0014"
+      },
+      {
+        "atributo": "ATT_15122",
+        "valor": "1 x 2600 mL"
+      },
+      {
+        "atributo": "ATT_14860",
+        "valor": "1 x 2600 mL"
+      },
+      {
+        "atributo": "ATT_14551",
+        "valor": "90000000014"
+      },
+      {
+        "atributo": "ATT_14545",
+        "valor": "82"
+      },
+      {
+        "atributo": "ATT_8571",
+        "valor": "NÃO SE APLICA"
+      },
+      {
+        "atributo": "ATT_9142",
+        "valor": "false"
+      }
+    ],
+    "atributosMultivalorados": [],
+    "atributosCompostos": [],
+    "atributosCompostosMultivalorados": [],
+    "codigosInterno": [
+      "SKU-MOCK-0014"
+    ]
+  },
+  {
+    "seq": 15,
+    "codigo": 1015,
+    "descricao": "Produto de catálogo fictício modelo 015, utilizado exclusivamente para teste técnico. Informações comerciais, fabricantes, registros e códigos internos foram anonimizados.",
+    "denominacao": "PRODUTO CATALOGO MODELO 015",
+    "cpfCnpjRaiz": "00000000",
+    "situacao": "Ativado",
+    "modalidade": "IMPORTACAO",
+    "ncm": "38221990",
+    "versao": "1",
+    "atributos": [
+      {
+        "atributo": "ATT_14200",
+        "valor": "99"
+      },
+      {
+        "atributo": "ATT_2622",
+        "valor": "02"
+      },
+      {
+        "atributo": "ATT_14547",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_14555",
+        "valor": "FABRICANTE MODELO 7 - ENDERECO FICTICIO 115 - CIDADE TESTE - PAIS EXEMPLO"
+      },
+      {
+        "atributo": "ATT_14554",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_14540",
+        "valor": "01"
+      },
+      {
+        "atributo": "ATT_14556",
+        "valor": "6"
+      },
+      {
+        "atributo": "ATT_14546",
+        "valor": "914 Dias(s)"
+      },
+      {
+        "atributo": "ATT_15120",
+        "valor": "NÃO SE APLICA"
+      },
+      {
+        "atributo": "ATT_15121",
+        "valor": "COD-MOCK-0015"
+      },
+      {
+        "atributo": "ATT_15122",
+        "valor": "2 x 25 mL"
+      },
+      {
+        "atributo": "ATT_14860",
+        "valor": "2 x 25 mL"
+      },
+      {
+        "atributo": "ATT_14551",
+        "valor": "90000000015"
+      },
+      {
+        "atributo": "ATT_14545",
+        "valor": "82"
+      },
+      {
+        "atributo": "ATT_8571",
+        "valor": "NÃO SE APLICA"
+      },
+      {
+        "atributo": "ATT_9142",
+        "valor": "false"
+      }
+    ],
+    "atributosMultivalorados": [],
+    "atributosCompostos": [],
+    "atributosCompostosMultivalorados": [],
+    "codigosInterno": [
+      "SKU-MOCK-0015"
+    ]
+  },
+  {
+    "seq": 16,
+    "codigo": 1016,
+    "descricao": "Produto de catálogo fictício modelo 016, utilizado exclusivamente para teste técnico. Informações comerciais, fabricantes, registros e códigos internos foram anonimizados.",
+    "denominacao": "PRODUTO CATALOGO MODELO 016",
+    "cpfCnpjRaiz": "00000000",
+    "situacao": "Ativado",
+    "modalidade": "IMPORTACAO",
+    "ncm": "38221990",
+    "versao": "1",
+    "atributos": [
+      {
+        "atributo": "ATT_14200",
+        "valor": "99"
+      },
+      {
+        "atributo": "ATT_2622",
+        "valor": "02"
+      },
+      {
+        "atributo": "ATT_14547",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_14555",
+        "valor": "FABRICANTE MODELO 8 - ENDERECO FICTICIO 116 - CIDADE TESTE - PAIS EXEMPLO"
+      },
+      {
+        "atributo": "ATT_14554",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_14540",
+        "valor": "01"
+      },
+      {
+        "atributo": "ATT_14556",
+        "valor": "6"
+      },
+      {
+        "atributo": "ATT_14546",
+        "valor": "1096 Dias(s)"
+      },
+      {
+        "atributo": "ATT_15120",
+        "valor": "NÃO SE APLICA"
+      },
+      {
+        "atributo": "ATT_15121",
+        "valor": "COD-MOCK-0016"
+      },
+      {
+        "atributo": "ATT_15122",
+        "valor": "10 x 20 mL"
+      },
+      {
+        "atributo": "ATT_14860",
+        "valor": "10 x 20 mL"
+      },
+      {
+        "atributo": "ATT_14551",
+        "valor": "90000000016"
+      },
+      {
+        "atributo": "ATT_14545",
+        "valor": "82"
+      },
+      {
+        "atributo": "ATT_8571",
+        "valor": "NÃO SE APLICA"
+      },
+      {
+        "atributo": "ATT_9142",
+        "valor": "false"
+      }
+    ],
+    "atributosMultivalorados": [],
+    "atributosCompostos": [],
+    "atributosCompostosMultivalorados": [],
+    "codigosInterno": [
+      "SKU-MOCK-0016"
+    ]
+  },
+  {
+    "seq": 17,
+    "codigo": 1017,
+    "descricao": "Produto de catálogo fictício modelo 017, utilizado exclusivamente para teste técnico. Informações comerciais, fabricantes, registros e códigos internos foram anonimizados.",
+    "denominacao": "PRODUTO CATALOGO MODELO 017",
+    "cpfCnpjRaiz": "00000000",
+    "situacao": "Ativado",
+    "modalidade": "IMPORTACAO",
+    "ncm": "38221990",
+    "versao": "1",
+    "atributos": [
+      {
+        "atributo": "ATT_14200",
+        "valor": "99"
+      },
+      {
+        "atributo": "ATT_2622",
+        "valor": "02"
+      },
+      {
+        "atributo": "ATT_14547",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_14555",
+        "valor": "FABRICANTE MODELO 1 - ENDERECO FICTICIO 117 - CIDADE TESTE - PAIS EXEMPLO"
+      },
+      {
+        "atributo": "ATT_14554",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_14540",
+        "valor": "01"
+      },
+      {
+        "atributo": "ATT_14556",
+        "valor": "6"
+      },
+      {
+        "atributo": "ATT_14546",
+        "valor": "730 Dias(s)"
+      },
+      {
+        "atributo": "ATT_15120",
+        "valor": "NÃO SE APLICA"
+      },
+      {
+        "atributo": "ATT_15121",
+        "valor": "COD-MOCK-0017"
+      },
+      {
+        "atributo": "ATT_15122",
+        "valor": "1 x 5 mL"
+      },
+      {
+        "atributo": "ATT_14860",
+        "valor": "1 x 5 mL"
+      },
+      {
+        "atributo": "ATT_14551",
+        "valor": "90000000017"
+      },
+      {
+        "atributo": "ATT_14545",
+        "valor": "82"
+      },
+      {
+        "atributo": "ATT_8571",
+        "valor": "NÃO SE APLICA"
+      },
+      {
+        "atributo": "ATT_9142",
+        "valor": "false"
+      }
+    ],
+    "atributosMultivalorados": [],
+    "atributosCompostos": [],
+    "atributosCompostosMultivalorados": [],
+    "codigosInterno": [
+      "SKU-MOCK-0017"
+    ]
+  },
+  {
+    "seq": 18,
+    "codigo": 1018,
+    "descricao": "Produto de catálogo fictício modelo 018, utilizado exclusivamente para teste técnico. Informações comerciais, fabricantes, registros e códigos internos foram anonimizados.",
+    "denominacao": "PRODUTO CATALOGO MODELO 018",
+    "cpfCnpjRaiz": "00000000",
+    "situacao": "Ativado",
+    "modalidade": "IMPORTACAO",
+    "ncm": "38221990",
+    "versao": "1",
+    "atributos": [
+      {
+        "atributo": "ATT_14200",
+        "valor": "99"
+      },
+      {
+        "atributo": "ATT_9142",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8571",
+        "valor": "NÃO SE APLICA"
+      },
+      {
+        "atributo": "ATT_14545",
+        "valor": "82"
+      },
+      {
+        "atributo": "ATT_14551",
+        "valor": "90000000018"
+      },
+      {
+        "atributo": "ATT_14860",
+        "valor": "3 x 3 mL"
+      },
+      {
+        "atributo": "ATT_15122",
+        "valor": "3 x 3 mL"
+      },
+      {
+        "atributo": "ATT_15121",
+        "valor": "COD-MOCK-0018"
+      },
+      {
+        "atributo": "ATT_15120",
+        "valor": "NÃO SE APLICA"
+      },
+      {
+        "atributo": "ATT_14546",
+        "valor": "730 Dias(s)"
+      },
+      {
+        "atributo": "ATT_14556",
+        "valor": "6"
+      },
+      {
+        "atributo": "ATT_14540",
+        "valor": "01"
+      },
+      {
+        "atributo": "ATT_14554",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_14555",
+        "valor": "FABRICANTE MODELO 2 - ENDERECO FICTICIO 118 - CIDADE TESTE - PAIS EXEMPLO"
+      },
+      {
+        "atributo": "ATT_14547",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_2622",
+        "valor": "02"
+      }
+    ],
+    "atributosMultivalorados": [],
+    "atributosCompostos": [],
+    "atributosCompostosMultivalorados": [],
+    "codigosInterno": [
+      "SKU-MOCK-0018"
+    ]
+  },
+  {
+    "seq": 19,
+    "codigo": 1019,
+    "descricao": "Produto de catálogo fictício modelo 019, utilizado exclusivamente para teste técnico. Informações comerciais, fabricantes, registros e códigos internos foram anonimizados.",
+    "denominacao": "PRODUTO CATALOGO MODELO 019",
+    "cpfCnpjRaiz": "00000000",
+    "situacao": "Ativado",
+    "modalidade": "IMPORTACAO",
+    "ncm": "38221990",
+    "versao": "1",
+    "atributos": [
+      {
+        "atributo": "ATT_14200",
+        "valor": "99"
+      },
+      {
+        "atributo": "ATT_2622",
+        "valor": "02"
+      },
+      {
+        "atributo": "ATT_14547",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_14555",
+        "valor": "FABRICANTE MODELO 3 - ENDERECO FICTICIO 119 - CIDADE TESTE - PAIS EXEMPLO"
+      },
+      {
+        "atributo": "ATT_14554",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_14540",
+        "valor": "01"
+      },
+      {
+        "atributo": "ATT_14556",
+        "valor": "6"
+      },
+      {
+        "atributo": "ATT_14546",
+        "valor": "1216 Dias(s)"
+      },
+      {
+        "atributo": "ATT_15120",
+        "valor": "NÃO SE APLICA"
+      },
+      {
+        "atributo": "ATT_15121",
+        "valor": "COD-MOCK-0019"
+      },
+      {
+        "atributo": "ATT_15122",
+        "valor": "6 x 2 mL"
+      },
+      {
+        "atributo": "ATT_14860",
+        "valor": "6 x 2 mL"
+      },
+      {
+        "atributo": "ATT_14551",
+        "valor": "90000000019"
+      },
+      {
+        "atributo": "ATT_14545",
+        "valor": "82"
+      },
+      {
+        "atributo": "ATT_8571",
+        "valor": "NÃO SE APLICA"
+      },
+      {
+        "atributo": "ATT_9142",
+        "valor": "false"
+      }
+    ],
+    "atributosMultivalorados": [],
+    "atributosCompostos": [],
+    "atributosCompostosMultivalorados": [],
+    "codigosInterno": [
+      "SKU-MOCK-0019"
+    ]
+  },
+  {
+    "seq": 20,
+    "codigo": 1020,
+    "descricao": "Produto de catálogo fictício modelo 020, utilizado exclusivamente para teste técnico. Informações comerciais, fabricantes, registros e códigos internos foram anonimizados.",
+    "denominacao": "PRODUTO CATALOGO MODELO 020",
+    "cpfCnpjRaiz": "00000000",
+    "situacao": "Ativado",
+    "modalidade": "IMPORTACAO",
+    "ncm": "38221990",
+    "versao": "1",
+    "atributos": [
+      {
+        "atributo": "ATT_14200",
+        "valor": "99"
+      },
+      {
+        "atributo": "ATT_2622",
+        "valor": "02"
+      },
+      {
+        "atributo": "ATT_14547",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_14555",
+        "valor": "FABRICANTE MODELO 4 - ENDERECO FICTICIO 120 - CIDADE TESTE - PAIS EXEMPLO"
+      },
+      {
+        "atributo": "ATT_14554",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_14540",
+        "valor": "01"
+      },
+      {
+        "atributo": "ATT_14556",
+        "valor": "6"
+      },
+      {
+        "atributo": "ATT_14546",
+        "valor": "1216 Dias(s)"
+      },
+      {
+        "atributo": "ATT_15120",
+        "valor": "NÃO SE APLICA"
+      },
+      {
+        "atributo": "ATT_15121",
+        "valor": "COD-MOCK-0020"
+      },
+      {
+        "atributo": "ATT_15122",
+        "valor": "12 x 5 mL"
+      },
+      {
+        "atributo": "ATT_14860",
+        "valor": "12 x 5 mL"
+      },
+      {
+        "atributo": "ATT_14551",
+        "valor": "90000000020"
+      },
+      {
+        "atributo": "ATT_14545",
+        "valor": "82"
+      },
+      {
+        "atributo": "ATT_8571",
+        "valor": "NÃO SE APLICA"
+      },
+      {
+        "atributo": "ATT_9142",
+        "valor": "false"
+      }
+    ],
+    "atributosMultivalorados": [],
+    "atributosCompostos": [],
+    "atributosCompostosMultivalorados": [],
+    "codigosInterno": [
+      "SKU-MOCK-0020"
+    ]
+  }
+]
